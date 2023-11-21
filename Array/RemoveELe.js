@@ -1,7 +1,7 @@
-// Problem - remove 76
+// Problem 
 // Input  => [30, 20, 45, 76, 20, 80]
 // Output => [30, 20, 45, 20, 80]
-// Remove 75
+// Remove 76
 
 let data = [30, 20, 45, 76, 20, 80];
 
