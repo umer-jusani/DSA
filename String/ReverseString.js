@@ -5,7 +5,9 @@
 function reverstring(string) {
   let array = string.split("").reverse();
   let newStr = array.join('');
-  console.log(newStr);
+
+  return newStr;
 }
 
-reverstring("hello");
+const Output = reverstring("hello");
+console.log(Output)
